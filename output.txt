@@ -1,0 +1,650 @@
+£2: Technology
+346,725,530
+1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015
+1 - Common
+---
+£2: Rugby World Cup
+4,933,000
+1999
+7 - Common
+---
+£2: Wireless Transmission
+4,558,000
+2001
+12 - Common
+---
+£2: Commonwealth Games Eng
+650,500
+2002
+91 - Very Scarce
+---
+£2: Commonwealth Games Wales
+588,500
+2002
+97 - Very Scarce
+---
+£2: Commonwealth Games Scot
+771,750
+2002
+89 - Very Scarce
+---
+£2: Commonwealth Games NI
+485,500
+2002
+100 - Very Scarce
+---
+£2: DNA
+4,299,000
+2003
+12 - Less Common
+---
+£2: Steam Locomotive
+5,004,500
+2004
+3 - Common
+---
+£2: Gunpowder Plot
+5,140,500
+2005
+5 - Common
+---
+£2: 60th Anniversary of the end of World War 2
+10,191,000
+2005
+1 - Common
+---
+£2: Brunel
+7,928,250
+2006
+1 - Common
+---
+£2: Paddington Station
+7,452,250
+2006
+1 - Common
+---
+£2: Act of Union
+7,545,000
+2007
+1 - Common
+---
+£2: Abolition of Slavery
+8,445,000
+2007
+1 - Common
+---
+£2: Olympic Handover
+918,000
+2008
+68 - Scarce
+---
+£2: Olympic Centenary
+910,000
+2008
+58 - Scarce
+---
+£2: Robert Burns
+3,253,000
+2009
+15 - Less Common
+---
+£2: Darwin
+3,903,000
+2009
+11 - Less Common
+---
+£2: Florence Nightingale
+6,175,000
+2010
+1 - Common
+---
+£2: King James Bible
+975,000
+2011
+56 - Scarce
+---
+£2: Mary Rose
+1,040,000
+2011
+54 - Scarce
+---
+£2: Charles Dickens
+8,190,000
+2012
+1 - Common
+---
+£2: London 2012 Handover
+845,000
+2012
+72 - Scarce
+---
+£2: London Underground Train
+1,690,000
+2013
+34 - Less Common
+---
+£2: London Underground Roundel
+1,560,000
+2013
+36 - Less Common
+---
+£2: Guinea
+2,990,000
+2013
+21 - Less Common
+---
+£2: 2014 First World War Centenary
+5,720,000
+2014
+1 - Common
+---
+£2: Trinity House
+3,705,000
+2014
+7 - Common
+---
+£2: Magna Carta
+1,495,000
+2015
+30 - Less Common
+---
+£2: 2015 First World War Centenary
+650,000
+2015
+53 - Scarce
+---
+£2: Britannia
+3,575,000
+2015, 2016
+11 - Less Common
+---
+£2: 2016 Shakespeare Histories
+4,615,000
+2016
+10 - Less Common
+---
+£2: 2016 Shakespeare Tragedies
+4,615,000
+2016
+12 - Less Common
+---
+£2: 2016 Shakespeare Comedies
+4,355,000
+2016
+32 - Less Common
+---
+£2: 2016 World War One
+9,550,000
+2016
+2 - Common
+---
+£2: 2016 Great Fire of London
+5,135,000
+2016
+18 - Less Common
+---
+£2: Jane Austen
+2017
+---
+£2: WW1 Aviation
+2017
+---
+£2: Mary Shelley's Frankenstein
+2018
+---
+£2: RAF Centenary
+2018
+---
+£2: WWI Armistice
+2018
+---
+£2: RAF Vulcan
+2018
+---
+£2: RAF Spitfire
+2018
+---
+£2: RAF Sea King
+2018
+---
+£2: RAF Lightning II
+2018
+---
+£2: Voyage of Discovery
+2018
+---
+£2: Samuel Pepys
+2019
+---
+£2: D-Day Landings
+2019
+---
+£2: 200th Anniversary of Wedgwood
+2019
+---
+50p: Britannia
+805,926,100
+1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008
+1 - Common
+---
+50p: UK entry to EEC
+5,043,000
+1998
+8 - Common
+---
+50p: NHS
+5,001,000
+1998
+11 - Common
+---
+50p: Libraries
+11,263,000
+2000
+1 - Common
+---
+50p: Suffragettes
+3,124,030
+2003
+24 - Less Common
+---
+50p: Roger Bannister
+9,032,500
+2004
+2 - Common
+---
+50p: Dictionary
+17,649,000
+2005
+1 - Common
+---
+50p: Victoria Cross 1
+12,087,000
+2006
+1 - Common
+---
+50p: Victoria Cross 2
+10,000,500
+2006
+1 - Common
+---
+50p: Scouts
+7,710,750
+2007
+3 - Common
+---
+50p: Royal Arms
+55,047,030
+2008, 2012, 2013, 2014, 2015, 2017
+1 - Common
+---
+50p: Kew Gardens
+210,000
+2009
+100 - Very Scarce
+---
+50p: Girl Guides
+7,410,090
+2010
+2 - Common
+---
+50p: WWF
+3,400,000
+2011
+12 - Common
+---
+50p: Ironside
+7,000,000
+2013
+1 - Common
+---
+50p: Benjamin Britten
+5,300,000
+2013
+4 - Common
+---
+50p: Commonwealth Games
+6,500,000
+2014
+2 - Common
+---
+50p: Battle of Britain
+5,900,000
+2015
+2 - Common
+---
+50p: Battle of Hastings 50p
+6,700,000
+2016
+1 - Common
+---
+50p: 2016 Peter Rabbit
+9,600,000
+2016
+1 - Common
+---
+50p: Beatrix Potter
+6,900,000
+2016
+2 - Common
+---
+50p: Mrs Tiggy-Winkle
+8,800,000
+2016
+1 - Common
+---
+50p: Jemima Puddle-Duck
+2,100,000
+2016
+34 - Less Common
+---
+50p: Squirrel Nutkin
+5,000,000
+2016
+6 - Common
+---
+50p: Team GB
+6,400,000
+2016
+2 - Common
+---
+50p: Sir Isaac Newton
+1,800,000
+2017
+28 - Less Common
+---
+50p: 2017 Peter Rabbit
+19,300,000
+2017
+1 - Common
+---
+50p: Mr. Jeremy Fisher
+9,700,000
+2017
+1 - Common
+---
+50p: Tom Kitten
+9,300,000
+2017
+1 - Common
+---
+50p: Benjamin Bunny
+11,300,000
+2017
+1 - Common
+---
+50p: The Representation of the People Act
+2018
+---
+50p: 2018 Peter Rabbit
+2018
+---
+50p: Flopsy Bunny
+2018
+---
+50p: The Tailor of Gloucester
+2018
+---
+50p: Mrs. Tittlemouse
+2018
+---
+50p: Paddington at the Palace
+2018
+---
+50p: Paddington at the Station
+2018
+---
+50p: The Snowman
+2018
+---
+50p: Sir Arthur Conan Doyle
+2019
+---
+50p: Aquatics
+2,179,000
+2011
+18 - Less Common
+---
+50p: Archery
+3,345,500
+2011
+10 - Common
+---
+50p: Athletics
+2,224,000
+2011
+20 - Less Common
+---
+50p: Badminton
+2,133,500
+2011
+28 - Less Common
+---
+50p: Basketball
+1,748,000
+2011
+37 - Less Common
+---
+50p: Boccia
+2,166,000
+2011
+17 - Less Common
+---
+50p: Boxing
+2,148,500
+2011
+22 - Less Common
+---
+50p: Canoeing
+2,166,500
+2011
+17 - Less Common
+---
+50p: Cycling
+2,090,500
+2011
+20 - Less Common
+---
+50p: Equestrian
+2,142,500
+2011
+21 - Less Common
+---
+50p: Fencing
+2,115,500
+2011
+25 - Less Common
+---
+50p: Football
+1,125,500
+2011
+98 - Very Scarce
+---
+50p: Goalball
+1,615,500
+2011
+73 - Scarce
+---
+50p: Gymnastics
+1,720,813
+2011
+44 - Scarce
+---
+50p: Handball
+1,676,500
+2011
+66 - Scarce
+---
+50p: Hockey
+1,773,500
+2011
+58 - Scarce
+---
+50p: Judo
+1,161,500
+2011
+95 - Very Scarce
+---
+50p: Pentathlon
+1,689,500
+2011
+46 - Scarce
+---
+50p: Rowing
+1,717,300
+2011
+60 - Scarce
+---
+50p: Sailing
+1,749,500
+2011
+48 - Scarce
+---
+50p: Shooting
+1,656,500
+2011
+61 - Scarce
+---
+50p: Table Tennis
+1,737,500
+2011
+47 - Scarce
+---
+50p: Taekwondo
+1,664,000
+2011
+49 - Scarce
+---
+50p: Tennis
+1,454,000
+2011
+77 - Scarce
+---
+50p: Triathlon
+1,163,500
+2011
+95 - Very Scarce
+---
+50p: Volleyball
+2,133,500
+2011
+24 - Less Common
+---
+50p: Weightlifting
+1,879,500
+2011
+27 - Less Common
+---
+50p: Wheelchair Rugby
+1,765,500
+2011
+45 - Scarce
+---
+50p: Wrestling
+1,129,500
+2011
+95 - Very Scarce
+---
+10p: A - Angel of the North
+2018
+3 - Common
+---
+10p: B - Bond 007
+2018
+7 - Common
+---
+10p: C - Cricket
+2018
+6 - Common
+---
+10p: D - Double Decker Bus
+2018
+5 - Common
+---
+10p: E - English Breakfast
+2018
+23 - Less Common
+---
+10p: F - Fish and Chips
+2018
+52 - Scarce
+---
+10p: G - Greenwich Meantime
+2018
+4 - Common
+---
+10p: H - Houses of Parliament
+2018
+15 - Less Common
+---
+10p: I - Ice Cream
+2018
+3 - Common
+---
+10p: J - Jubilee
+2018
+47 - Scarce
+---
+10p: K - King Arthur
+2018
+88 - Very Scarce
+---
+10p: L - Loch Ness Monster
+2018
+88 - Very Scarce
+---
+10p: M - Mackintosh
+2018
+38 - Scarce
+---
+10p: N - NHS
+2018
+42 - Scarce
+---
+10p: O - Oak
+2018
+25 - Less Common
+---
+10p: P - Postbox
+2018
+37 - Scarce
+---
+10p: Q - Queue
+2018
+18 - Less Common
+---
+10p: R - Robin
+2018
+47 - Scarce
+---
+10p: S - Stonehenge
+2018
+100 - Very Scarce
+---
+10p: T - Tea
+2018
+19 - Less Common
+---
+10p: U - Union Jack
+2018
+9 - Common
+---
+10p: V - Villages
+2018
+3 - Common
+---
+10p: W - World Wide Web
+2018
+4 - Common
+---
+10p: X - X Marks The Spot
+2018
+3 - Common
+---
+10p: Y - Yeoman Warder
+2018
+59 - Scarce
+---
+10p: Z - Zebra Crossing
+2018
+39 - Scarce
+---
